@@ -28,8 +28,11 @@ AngularJS is eventually HTML and JavaScript code. So you can install any good ed
 The following editors are recommended:
 
 Sublime Text - https://www.sublimetext.com/download
+
 Aptana Studio 3 - http://www.aptana.com/products/studio3/download.html
+
 Brackets - http://brackets.io/
+
 Webstorm - https://www.jetbrains.com/webstorm/download/#section=windows
 
 -Online Editor:
