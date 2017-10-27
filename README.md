@@ -1,4 +1,4 @@
-# MOVIE-KIOSK
+# MOVIE-KIOSK ( https://anand736.github.io/MOVIE-KIOSK/)
 ## Synopsis
 
 This application allows a user to buy/rent a moveie on an online kiosk.This is a simple application built in AngularJS framework with Bootstrap layout for interface.
